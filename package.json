@@ -1,5 +1,5 @@
 {
-  "name": "plan-with-love",
+  "name": "plan-with-shubham",
   "version": "0.1.0",
   "homepage": "https://shubhampalav2.github.io/react-gh-pages",
   "private": true,
@@ -37,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
