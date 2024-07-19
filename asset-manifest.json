@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.9590c2e2.css",
-    "main.js": "/react-gh-pages/static/js/main.cdf2051a.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.9590c2e2.css.map": "/react-gh-pages/static/css/main.9590c2e2.css.map",
-    "main.cdf2051a.js.map": "/react-gh-pages/static/js/main.cdf2051a.js.map"
+    "main.css": "/PlanTourism/static/css/main.9590c2e2.css",
+    "main.js": "/PlanTourism/static/js/main.cdf2051a.js",
+    "index.html": "/PlanTourism/index.html",
+    "main.9590c2e2.css.map": "/PlanTourism/static/css/main.9590c2e2.css.map",
+    "main.cdf2051a.js.map": "/PlanTourism/static/js/main.cdf2051a.js.map"
   },
   "entrypoints": [
     "static/css/main.9590c2e2.css",
